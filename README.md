@@ -18,8 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cisxo&show_icons=true&locale=en" alt="cisxo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cisxo&" alt="cisxo" /></p>
-
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cisxo)](https://solved.ac/cisxo)
-#### Silver 💍
-<img src="https://i.ibb.co/mXhLMHJ/2020-08-26-2-03-30.png" alt="2020-08-26-2-03-30" border="0">
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={cisxo})](https://solved.ac/{cisxo})
