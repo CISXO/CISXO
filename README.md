@@ -18,5 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cisxo&show_icons=true&locale=en" alt="cisxo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cisxo&" alt="cisxo" /></p>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={cisxo})](https://solved.ac/{cisxo})
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cisxo)](https://solved.ac/cisxo/)
