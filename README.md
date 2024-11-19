@@ -18,3 +18,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cisxo&" alt="cisxo" /></p>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cisxo)](https://velog.io/@cisxo/posts)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cisxo)](https://github.com/cisxo/velog-readme-stats)
