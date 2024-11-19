@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cisxo&" alt="cisxo" /></p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cisxo)](https://solved.ac/cisxo/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@cisxo/posts)
