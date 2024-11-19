@@ -19,4 +19,4 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cisxo)](https://velog.io/@cisxo/posts)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cisxo)](https://github.com/cisxo/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cisxo)]
