@@ -11,19 +11,44 @@
 <li> 안정적인 서비스 구축을 목표로 학습하고 있습니다. </li>
 <li> 개인 블로그에 공부하는 것들을 기록하고, 다양한 컨퍼런스 및 네트워킹에 참여하고 있습니다. </li>
 <li> 어떤 일이든 맡은 바에 있어 최선을 다합니다.</li>
-<li>코드 리뷰에서는 "이렇게 하면 안 돼요"보다는 왜 그렇게 생각하는지 구체적인 이유와 함께 피드백을 드리려 노력합니다.</li>
+<li> 금융권의 하이브리드 클라우드에 관심이 있습니다.</li>
 
 </ul>
 
+---
 
+## 취미 ⚽️ 🏸
+
+### 축구 ⚽
+
+<img src="https://github.com/user-attachments/assets/f6efd237-0d77-42a9-a397-e28090376c3a" width="100" alt="Image">
+
+<img src="https://github.com/user-attachments/assets/3a96975e-eae0-4f57-b45f-b2259b5961eb" width="140" alt="Image">
+
+<img src="https://github.com/user-attachments/assets/3611d20f-e4c3-4ef5-9a74-b273350c11f7" width="80" alt="Image">
+
+
+### 증권 투자 💵
+* ETF 투자에 관심이 있습니다.
+
+---
 
 ## 📌 이력
 * 2025.04 ~         신한투자증권 프로디지털아카데미 6기
 * 2024.09 ~ 2024.12 의료 데이터를 관리하는 스타트업 회사 인턴
 * 2024.06 ~ 2024.07 UNLV 머신러닝 교육
 
+---
+
+## 💻 프로젝트
+
+https://github.com/CISXO/porthub_web
+
+---
+
 
 ## 🛠 기술 스택
+
 
 ### 📌 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
