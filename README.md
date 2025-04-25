@@ -44,7 +44,12 @@
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@cisxo)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cisxo2@gmail.com)
+
+  <a href="mailto:cisxo2@gmail.com">
+    <img
+      src="https://img.shields.io/badge/cisxo2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cisxo&show_icons=true&locale=en&layout=compact" alt="cisxo" /></p>
