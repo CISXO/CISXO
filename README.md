@@ -39,6 +39,11 @@
 ### 📌 Monitoring
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
+### 📌 Social
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@cisxo)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cisxo&show_icons=true&locale=en&layout=compact" alt="cisxo" /></p>
 
