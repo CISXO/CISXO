@@ -33,7 +33,7 @@
 ## 📌 이력
 * 2025.04 ~         신한투자증권 프로디지털아카데미 6기
 * 2024.09 ~ 2024.12 의료 데이터를 관리하는 스타트업 회사 인턴
-* 2024.06 ~ 2024.07 UNLV 머신러닝 교육
+* 2024.06 ~ 2024.07 UNLV 네바다주립대 해외교육프로그램 머신러닝 교육
 
 ---
 
@@ -61,8 +61,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ### 📌 Social
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/whwjdgus3/#)
-
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@cisxo)
 
 
